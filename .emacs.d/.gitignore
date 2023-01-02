@@ -1,0 +1,10 @@
+auto-save-list/
+eln-cache/
+bookmarks
+elpa/
+eshell/
+transient/
+.org-id-locations
+bookmarks
+**/*~
+org-roam.db
